@@ -1,0 +1,13 @@
+{
+  "pins" : [
+    {
+      "identity" : "automerge-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kateinoigakukun/automerge-swift",
+      "state" : {
+        "revision" : "3cbe046a296ce8f4674708a8777058c5e4013400"
+      }
+    }
+  ],
+  "version" : 2
+}
